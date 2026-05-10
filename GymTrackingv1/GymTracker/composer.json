@@ -1,0 +1,10 @@
+{
+    "name": "gymtrack/gymtracker",
+    "description": "GymTrack - Gym Management System",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes/"
+        }
+    }
+}
